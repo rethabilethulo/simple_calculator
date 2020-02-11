@@ -1,0 +1,5 @@
+def multiply(a,b):
+    return(a * b)
+
+print(multiply(1,3))  
+print(multiply(-1,3))  
